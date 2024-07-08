@@ -59,17 +59,18 @@ To download the dataset, please fill out this [form](https://docs.google.com/for
 
 # Visualization
 We provide simple Python scripts to read and visualize the data.
+
+## Prerequisites
+* Python 3.7
+* Pytorch 1.13.1
+* CUDA 11.0 or higher
+
 First of all, clone the code:
 ```
 git clone https://github.com/weiyulee/RadVRU.git
 ```
 
-Install all the python dependencies using pip:
-```
-pip install -r ./scripts/requirements.txt
-```
-
-Simply run:
+Install all the python dependencies then simply run:
 ```
 python ./scripts/visualizer.py
 ```
