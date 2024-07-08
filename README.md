@@ -56,7 +56,7 @@ We provide simple Python scripts to read and visualize the data.
 The annotations are performed by using a camera- and a LiDAR-based object detection model to pre-label the instances, and then these labels are manually corrected by human annotators. The pedestrians are annotated as single points on the ground plane. We provide Vulnerable Road User (including pedestrians and cyclists) ground truth for training and evaluation of detection algorithms. The ground truth consist of an frame ID, ground plane position. Labels are stored in a separated pickle file. We also provide the testing sequences used for evaluation.
 
 # Download instructions
-To download the dataset, please fill the [form](https://...) to obtain the download link.
+To download the dataset, please fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSczBqxPVJ3k1r_FX4JA7GRQ3kyTQxjEt1B3E-j-0yHFmm1NmA/viewform?usp=sf_link) to obtain the download link.
 
 # Citation
 If you find this code useful for your research, please cite [our paper](https://...):
