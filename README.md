@@ -3,7 +3,7 @@
 - **07/07/2024: create repository**
 
 # RadVRU dataset
-The RadVRU dataset is a collection of synchronized radar and RGB data in urban city environments. It contains 317 sequences of 10 s to 20 s in duration. Each sequence contains radar and RGB data recorded. There are approximately 77,000 frames with the two sensors synchronized. These frames are representative of challenging driving scenarios, including different lighting conditions and complex traffic with cars, pedestrians, and cyclists.
+The RadVRU dataset is a collection of synchronized radar and RGB data in urban city environments. It contains 317 sequences of 10 s to 20 s in duration. Each sequence contains radar and RGB data recorded. There are approximately 78,000 frames with the two sensors synchronized. These frames are representative of challenging driving scenarios, including different lighting conditions and complex traffic with cars, pedestrians, and cyclists.
 
 # Sensor  specifications
 <p align="center">
