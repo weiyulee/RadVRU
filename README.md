@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://youtu.be/bBEKZ7dl7zE">
+    <img src="https://img.youtube.com/vi/wi-zq_ZEr5c/hqdefault.jpg" alt="Watch the video" width="600" />
+  </a>
+</div>
+
 # Latest news:
 - **08/07/2024: dataset request form is added**
 - **07/07/2024: create repository**
