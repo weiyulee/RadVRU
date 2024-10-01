@@ -82,7 +82,7 @@ python ./scripts/visualizer.py
 ```
 
 # Citation
-If you find this code useful for your research, please cite [our paper](https://...):
+If you find this code useful for your research, please cite [our paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08101.pdf):
 ```
 @InProceedings{Lee_2024_ECCV,
                author = {Lee, Wei-Yu and Dimitrievski, Martin and Van Hamme, David and Aelterman, Jan and Jovanov, Ljubomir and Philips, Wilfried},
